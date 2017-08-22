@@ -29,14 +29,6 @@ body {
   z-index: 2;
 }
 
-.slide {
-  font-size: 40px;
-  padding: 40px;
-  box-sizing: border-box;
-  background: #333;
-  color: #fff;
-}
-
 .slide:nth-of-type(1) {
   background-image: url('../img/Got1.png');
   background-position: center;
